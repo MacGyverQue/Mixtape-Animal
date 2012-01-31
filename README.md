@@ -6,7 +6,7 @@ With the recent death of the retail record industry, artists are now releasing a
 Roadmap
 -------
 
-1. DatPiff Integration and automatic downloading using scrapy
+1. Dat-x-iff Integration and automatic downloading using scrapy (substitute the -x- with p to check the site out)
 2. Create a crowd-sourced rating and mixtape submission portal that will allow all the users to have access to more mixtapes than available at a single source.
 
 Potential Issues
